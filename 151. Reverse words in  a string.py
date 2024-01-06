@@ -6,8 +6,3 @@ class Solution(object):
             new+=i
             new+=" "
         return new.rstrip(" ")       
-    
-''' Runtime 4 ms
-Beats 99.59%
-Memory 13.8 MB
-Beats 27.87%'''
